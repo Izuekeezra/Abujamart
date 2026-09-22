@@ -1,0 +1,119 @@
+OrderID,FirstName,LastName,City,ProductName,Category,Quantity,Price,OrderTotal,OrderDate,PaymentMethod
+1,Rukayya,Bello,"port harcourt","Baby Diapers Pack","Baby Care",3,6500,19500,NULL,Card
+2,Tunde,Uzo,Lagos,"Bluetooth Speaker",Electronics,4,18500,74000,NULL,card
+3,Rukayya,Balogun,Abuja,"Smartphone Charger",Electronics,3,4500,13500,NULL,Transfer
+4,Sadiq,Adeyemi,Lagos,"Cooking Oil 5L",Groceries,3,12500,37500,NULL,cash
+5,Ngozi,Yakubu,"Port Harcourt","Cooking Oil 5L",Groceries,5,12500,62500,NULL,Transfer
+6,Bola,Adamu,"Benin City","Toothpaste Pack",Household,5,1800,9000,NULL,Cash
+7,Musa,Suleiman,"Benin City","Bag of Rice 50kg",Groceries,6,45000,270000,NULL,Cash
+8,Fatima,Abubakar,Ibadan,"Ankara Fabric (6yds)",Fashion,1,15000,15000,NULL,Transfer
+9,Tunde,Uzo,Lagos,"Kids School Bag",Fashion,1,9500,9500,NULL,cash
+10,Tunde,Uzo,Lagos,"Ankara Fabric (6yds)",Fashion,3,15000,45000,NULL,cash
+11,Halima,Garba,"Benin City","Bar Soap Pack",Household,2,,0,NULL,transfer
+12,Blessing,Danjuma,Abuja,"Office Chair",Furniture,2,65000,130000,NULL,Card
+13,Kayode,Garba,kaduna,"Smartphone Charger",Electronics,2,4500,9000,NULL,Transfer
+14,Rukayya,Bello,"port harcourt","Men's Sneakers",Fashion,4,22000,88000,NULL,TRANSFER
+15,Tunde,Olawale,"Port Harcourt","Bar Soap Pack",Household,6,,0,NULL,Transfer
+16,Precious,Chukwu,Lagos,"Kids School Bag",Fashion,2,9500,19000,NULL,Cash
+17,Musa,Adeyemi,Enugu,"Bag of Rice 50kg",Groceries,1,45000,45000,NULL,card
+18,Rukayya,Bello,"port harcourt","Ankara Fabric (6yds)",Fashion,6,15000,90000,NULL,transfer
+19,Yusuf,Danjuma,"Benin City","Ankara Fabric (6yds)",Fashion,2,15000,30000,NULL,Card
+20,Tunde,Nwosu,kaduna,"Kids School Bag",Fashion,1,9500,9500,NULL,CARD
+21,Nkechi,Danjuma,KADUNA,"Blender 1.5L",Electronics,4,,0,NULL,Cash
+22,Ngozi,Olawale,Ibadan,"Men's Sneakers",Fashion,2,22000,44000,NULL,Transfer
+23,Tunde,Nwosu,kaduna,"Rechargeable Fan",Electronics,4,21000,84000,NULL,TRANSFER
+24,Bola,Abubakar,"Port Harcourt","Office Chair",Furniture,4,65000,260000,NULL,Cash
+25,Bisi,Danjuma,Abuja,"Smartphone Charger",Electronics,5,4500,22500,NULL,Cash
+26,Umar,Eze,Enugu,"Men's Sneakers",Fashion,1,22000,22000,NULL,cash
+27,Peter,Musa,"Port Harcourt","Baby Diapers Pack","Baby Care",5,6500,32500,NULL,CARD
+28,Ese,Nnamdi,Enugu,"Ankara Fabric (6yds)",Fashion,6,15000,90000,NULL,Cash
+29,Precious,Eze,Enugu,"Ankara Fabric (6yds)",Fashion,4,15000,60000,NULL,TRANSFER
+30,Ifeoma,Olawale,"Port Harcourt","Bag of Rice 50kg",Groceries,2,45000,90000,NULL,Card
+31,Tunde,Nwosu,kaduna,"Toothpaste Pack",Household,4,1800,7200,NULL,Transfer
+32,Kayode,Garba,kaduna,"LED Bulb Pack",Household,4,3200,12800,NULL,Cash
+33,Yusuf,Danjuma,"Benin City","Bluetooth Speaker",Electronics,3,18500,55500,NULL,Card
+34,Ngozi,Okafor,"Benin City","Baby Diapers Pack","Baby Care",6,6500,39000,NULL,CARD
+35,Rukayya,Bello,"port harcourt","Rechargeable Fan",Electronics,2,21000,42000,NULL,transfer
+36,Uche,Nnamdi,"Port Harcourt","Toothpaste Pack",Household,6,1800,10800,NULL,transfer
+37,Segun,Okafor,Abuja,"Kids School Bag",Fashion,4,9500,38000,NULL,cash
+38,Ngozi,Okafor,"Benin City","Baby Diapers Pack","Baby Care",2,6500,13000,NULL,Transfer
+39,Tunde,Nwosu,kaduna,"Rechargeable Fan",Electronics,4,21000,84000,NULL,cash
+40,Precious,Chukwu,Lagos,"Men's Sneakers",Fashion,1,22000,22000,NULL,Cash
+41,Hauwa,Musa,Kano,"Cooking Oil 5L",Groceries,-3,12500,-37500,NULL,Cash
+42,Kunle,Garba,"Port Harcourt","Kids School Bag",Fashion,1,9500,9500,NULL,CARD
+43,Tolu,Nwosu,Ibadan,"Frozen Chicken 5kg",Groceries,1,13500,13500,NULL,cash
+44,Rukayya,Balogun,Abuja,"Baby Diapers Pack","Baby Care",2,6500,13000,NULL,cash
+45,Aisha,Uzo,Ibadan,"Toothpaste Pack",Household,1,1800,1800,NULL,transfer
+46,Godwin,Nnamdi,Kano,"Office Chair",Furniture,2,65000,130000,NULL,Cash
+47,Aisha,Uzo,Ibadan,"Office Chair",Furniture,3,65000,195000,NULL,Card
+48,Lami,Musa,Abuja,"Blender 1.5L",Electronics,4,,0,NULL,Transfer
+49,Umar,Adeyemi,Abuja,"Kids School Bag",Fashion,4,9500,38000,NULL,transfer
+50,Fatima,Abubakar,Ibadan,"Frozen Chicken 5kg",Groceries,4,13500,54000,NULL,CARD
+51,Zainab,Okafor,Abuja,"Blender 1.5L",Electronics,6,,0,NULL,TRANSFER
+52,Rukayya,Bello,"port harcourt","Ankara Fabric (6yds)",Fashion,6,15000,90000,NULL,Cash
+53,Precious,Chukwu,Lagos,"Smartphone Charger",Electronics,4,4500,18000,NULL,transfer
+54,Peter,Musa,"Port Harcourt","Bag of Rice 50kg",Groceries,4,45000,180000,NULL,TRANSFER
+55,Zainab,Okonkwo,Ibadan,"Baby Diapers Pack","Baby Care",3,6500,19500,NULL,cash
+57,Zainab,Okafor,Abuja,"Ankara Fabric (6yds)",Fashion,4,15000,60000,NULL,TRANSFER
+58,Hauwa,Musa,Kano,"Office Chair",Furniture,4,65000,260000,NULL,card
+59,Bashir,Adamu,Ibadan,"Bluetooth Speaker",Electronics,4,18500,74000,NULL,Transfer
+60,Tolu,Nwosu,Ibadan,"Blender 1.5L",Electronics,5,,0,NULL,Transfer
+61,Lami,Musa,Abuja,"Office Chair",Furniture,4,65000,260000,NULL,cash
+62,Ese,Nnamdi,Enugu,"Cooking Oil 5L",Groceries,6,12500,75000,NULL,card
+63,Tunde,Olawale,"Port Harcourt","Blender 1.5L",Electronics,6,,0,NULL,Cash
+64,Tunde,Olawale,"Port Harcourt","Men's Sneakers",Fashion,3,22000,66000,NULL,cash
+65,Aisha,Uzo,Ibadan,"Kids School Bag",Fashion,2,9500,19000,NULL,Transfer
+66,Ese,Okafor,Kano,"Smartphone Charger",Electronics,1,4500,4500,NULL,cash
+67,Ngozi,Yakubu,"Port Harcourt","Bag of Rice 50kg",Groceries,5,45000,225000,NULL,CARD
+68,Bisi,Danjuma,Abuja,"Kids School Bag",Fashion,4,9500,38000,NULL,cash
+69,Tolu,Nwosu,Ibadan,"Men's Sneakers",Fashion,4,22000,88000,NULL,Card
+70,Musa,Suleiman,"Benin City","Kids School Bag",Fashion,4,9500,38000,NULL,transfer
+72,Emeka,Bello,Abuja,"Smartphone Charger",Electronics,1,4500,4500,NULL,transfer
+73,David,Okonkwo,Ibadan,"Toothpaste Pack",Household,5,1800,9000,NULL,transfer
+74,Chinedu,James,"Port Harcourt","Rechargeable Fan",Electronics,4,21000,84000,NULL,transfer
+75,Kayode,Garba,kaduna,"Toothpaste Pack",Household,5,1800,9000,NULL,card
+76,Tunde,Nwosu,kaduna,"Bluetooth Speaker",Electronics,6,18500,111000,NULL,card
+77,Bola,Abubakar,"Port Harcourt","Bluetooth Speaker",Electronics,2,18500,37000,NULL,Card
+78,Ifeoma,Olawale,"Port Harcourt","Men's Sneakers",Fashion,6,22000,132000,NULL,Card
+79,Ese,Nnamdi,Enugu,"Smartphone Charger",Electronics,6,4500,27000,NULL,TRANSFER
+80,Precious,Eze,Enugu,"Frozen Chicken 5kg",Groceries,2,13500,27000,NULL,Cash
+81,Bola,Adamu,"Benin City","Cooking Oil 5L",Groceries,5,12500,62500,NULL,CARD
+82,Umar,Eze,Enugu,"Kids School Bag",Fashion,2,9500,19000,NULL,CARD
+83,Kayode,Garba,kaduna,"Toothpaste Pack",Household,6,1800,10800,NULL,card
+84,Rukayya,Bello,"port harcourt","Office Chair",Furniture,3,65000,195000,NULL,TRANSFER
+85,Chinedu,James,"Port Harcourt","Cooking Oil 5L",Groceries,5,12500,62500,NULL,Transfer
+86,David,Okonkwo,Ibadan,"Smartphone Charger",Electronics,1,4500,4500,NULL,Card
+87,Tunde,Nwosu,kaduna,"Frozen Chicken 5kg",Groceries,3,13500,40500,NULL,TRANSFER
+88,Obinna,Bello,Lagos,"Frozen Chicken 5kg",Groceries,4,13500,54000,NULL,transfer
+89,Bisi,Danjuma,Abuja,"Kids School Bag",Fashion,4,9500,38000,NULL,Transfer
+90,Ifeoma,Olawale,"Port Harcourt","Baby Diapers Pack","Baby Care",3,6500,19500,NULL,Transfer
+91,Ifeoma,Olawale,"Port Harcourt","Office Chair",Furniture,4,65000,260000,NULL,transfer
+92,Tunde,Nwosu,kaduna,"Blender 1.5L",Electronics,1,,0,NULL,Transfer
+93,Musa,Suleiman,"Benin City","Baby Diapers Pack","Baby Care",1,6500,6500,NULL,Card
+94,Tunde,Uzo,Lagos,"Kids School Bag",Fashion,5,9500,47500,NULL,Card
+95,Kunle,Garba,"Port Harcourt","Blender 1.5L",Electronics,3,,0,NULL,TRANSFER
+96,Tunde,Nwosu,kaduna,"Bag of Rice 50kg",Groceries,2,45000,90000,NULL,CARD
+97,Bashir,Adamu,Ibadan,"Men's Sneakers",Fashion,6,22000,132000,NULL,Card
+98,Bisi,Danjuma,Abuja,"Toothpaste Pack",Household,2,1800,3600,NULL,Card
+99,Halima,Garba,"Benin City","Ankara Fabric (6yds)",Fashion,1,15000,15000,NULL,TRANSFER
+100,Ngozi,Olawale,Ibadan,"Frozen Chicken 5kg",Groceries,2,13500,27000,NULL,cash
+101,Emeka,Adeyemi,Enugu,"Office Chair",Furniture,3,65000,195000,NULL,TRANSFER
+102,Yusuf,Nwosu,Ibadan,"Men's Sneakers",Fashion,5,22000,110000,NULL,Cash
+103,David,Okonkwo,Ibadan,"Blender 1.5L",Electronics,6,,0,NULL,cash
+104,Rukayya,Balogun,Abuja,"LED Bulb Pack",Household,4,3200,12800,NULL,cash
+105,Umar,Adeyemi,Abuja,"Smartphone Charger",Electronics,6,4500,27000,NULL,TRANSFER
+106,Musa,Adeyemi,Enugu,"Men's Sneakers",Fashion,5,22000,110000,NULL,Transfer
+107,Halima,Garba,"Benin City","LED Bulb Pack",Household,5,3200,16000,NULL,Transfer
+108,Kunle,Garba,"Port Harcourt","Office Chair",Furniture,2,65000,130000,NULL,transfer
+109,Ngozi,Yakubu,"Port Harcourt","Baby Diapers Pack","Baby Care",6,6500,39000,NULL,transfer
+110,Ngozi,Okafor,"Benin City","Frozen Chicken 5kg",Groceries,6,13500,81000,NULL,Card
+111,Segun,Okafor,Abuja,"Blender 1.5L",Electronics,5,,0,NULL,TRANSFER
+112,Aisha,Uzo,Ibadan,"Blender 1.5L",Electronics,4,,0,NULL,CARD
+113,Ifeoma,Olawale,"Port Harcourt","Kids School Bag",Fashion,6,9500,57000,NULL,TRANSFER
+114,Musa,Suleiman,"Benin City","Baby Diapers Pack","Baby Care",5,6500,32500,NULL,card
+115,Peter,Musa,"Port Harcourt","Kids School Bag",Fashion,6,9500,57000,NULL,Transfer
+116,Bisi,Danjuma,Abuja,"Office Chair",Furniture,4,65000,260000,NULL,card
+117,Yusuf,Nwosu,Ibadan,"Frozen Chicken 5kg",Groceries,6,13500,81000,NULL,card
+118,Bola,Adamu,"Benin City","Cooking Oil 5L",Groceries,6,12500,75000,NULL,CARD
+119,Nkechi,Danjuma,KADUNA,"Smartphone Charger",Electronics,1,4500,4500,NULL,Card
+120,Bashir,Adamu,Ibadan,"Baby Diapers Pack","Baby Care",3,6500,19500,NULL,Cash
