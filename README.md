@@ -12,6 +12,8 @@
   
 
 ### Project Overview
+
+---
 The dataset contains realistic data quality issues you must find and fix yourself: duplicate records, missing values,
 inconsistent text (city and category spelling/casing), invalid negative numbers, mismatched date formats, and
 orders referencing customers or products that don't exist.
