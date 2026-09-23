@@ -36,6 +36,15 @@ in the initial data preparation phrase we performed the following task
 2. Handling Missing Values and duplicates
 3. Data Cleaning and Formatting
 
+
+
+ '''sql
+
+SELECT * FROM table  
+WHERE customer = 2;
+
+'''
+
 ### EDA(Exploratory Data Analysis)
 
 EDA involves exploring the data set to answer key questions 
@@ -44,12 +53,6 @@ EDA involves exploring the data set to answer key questions
 - A problem with order date data type
 - A problem with the price data type
 - include some interesting code / features
-
-### '''sql
-
-SELECT * FROM table  
-WHERE customer = 2;
-'''
 
 ### Results
 
