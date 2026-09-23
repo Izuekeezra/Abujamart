@@ -47,7 +47,8 @@ EDA involves exploring the data set to answer key questions
 
 ### '''sql
 
-select distinct City from customers order by City ;
+SELECT * FROM table  
+WHERE customer = 2;
 '''
 
 ### Results
