@@ -63,14 +63,13 @@ The Analysis result are summarized as follows
 
 •	How many customers, products, and orders does AbujaMart have after cleaning? 118 Customers, 15 Products, 
 • Which city has the most customers, and which city generates the most revenue? Total Revenue = 8,201,300, Port-harcourt has the most customer, port-harcourt generates the most 2,751,300.
-• Which product category sells the most units, and which is most profitable? Office Chair (2,275,000)  
-• Who are AbujaMart's top 5 customers by total amount spent? Tunde, Rukayya, Ifeoma, Ngozi,Musa
-
+• Which product category sells the most units, and which is most profitable? Office Chair (2,275,000).
+• Who are AbujaMart's top 5 customers by total amount spent? Tunde, Rukayya, Ifeoma, Ngozi,Musa.
 • Which payment method is most popular among customers?
-Transfer (49)
+Transfer (49).
 • Is there a relationship between city and the products customers buy?
- No 
-• Are certain product categories more popular in certain cities? No 
+ No.
+• Are certain product categories more popular in certain cities? No.
 
 ### Recommendations
 
