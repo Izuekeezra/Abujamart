@@ -44,13 +44,16 @@ in the initial data preparation phrase we performed the following task
 2. Handling Missing Values and duplicates
 3. Data Cleaning and Formatting
 
-- include some interesting code / features
+### Data Analysis
+
+Include some interesting code/features worked with 
 
  '''sql
-SELECT * FROM table  
-WHERE customer = 2;
-'''
+ 
+ SELECT * FROM table1  
+WHERE cond = 2;
 
+'''
 
 
 
