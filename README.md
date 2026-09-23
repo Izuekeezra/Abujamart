@@ -29,22 +29,6 @@ The primary data set used for the project is abujamart_csv files containing ever
 - MySql - Data Cleaning / Data Analysis
 - PowerBI - Data Report
 
-Data Cleaning / Preparation / Data Analysis
-in the initial data preparation phrase we performed the following task 
-
-1. Data Loading and Inspection
-2. Handling Missing Values and duplicates
-3. Data Cleaning and Formatting
-
-
-
- '''sql
-
-SELECT * FROM table  
-WHERE customer = 2;
-
-'''
-
 ### EDA(Exploratory Data Analysis)
 
 EDA involves exploring the data set to answer key questions 
@@ -52,7 +36,23 @@ EDA involves exploring the data set to answer key questions
 - A problem with customer signup date data type 
 - A problem with order date data type
 - A problem with the price data type
+
+Data Cleaning / Preparation / Data Analysis
+in the initial data preparation phrase we performed the following task 
+
+1. Data Loading and Inspection
+2. Handling Missing Values and duplicates
+3. Data Cleaning and Formatting
+
 - include some interesting code / features
+
+ '''sql
+SELECT * FROM table  
+WHERE customer = 2;
+'''
+
+
+
 
 ### Results
 
